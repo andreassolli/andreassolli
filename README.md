@@ -7,12 +7,12 @@
 Andreas Sandvik Solli (aillos)
 -------------------------
 💻 I am a Full Stack Developer
-📚 I am currently finishing a bachelors degree in applied Computer Science
+📚 Currently finishing a bachelors degree in applied Computer Science
 🔭 My bachelor task revolves around creating a Full Stack app.
-📝 I plan on doing a masters degree in System Architecture and Programming
+📝 Plan is to do a masters degree in System Architecture and Programming
 🌟 Main languages: Java, JavaScript, C#, Python
 🧗‍♂️ Always striving for the highest achievements in the games I play
-💬 Ask me about an anime recommendation or why you should read/watch Berserk
+💬 Can recommend an anime or explain why you should read/watch Berserk
 ```
 <hr>
 
