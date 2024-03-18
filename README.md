@@ -16,16 +16,29 @@ Andreas Sandvik Solli (aillos)
 ```
 <hr>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats-aillos.vercel.app/api?username=aillos&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats-aillos.vercel.app/api?username=aillos&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats-aillos.vercel.app/api?username=aillos&show_icons=true" />
-</picture>
+<div align="center" >
+  <picture>
+    <source
+      srcset="https://github-readme-stats-aillos-projects.vercel.app/api?username=aillos&show_icons=true&theme=github_dark"
+      media="(prefers-color-scheme: dark)" width="400px"
+    />
+    <source
+      srcset="https://github-readme-stats-aillos-projects.vercel.app/api?username=aillos&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" width="400px"
+    />
+    <img src="https://github-readme-stats-aillos-projects.vercel.app/api?username=aillos&show_icons=true" width="400px" />
+  </picture>
+  
+  <picture>
+    <source
+      srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/top-langs/?username=aillos&layout=compact&theme=github_dark&langs_count=12&hide_progress=true&card_width=400"
+      media="(prefers-color-scheme: dark)"  height="167px"
+    />
+    <source
+      srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/top-langs/?username=aillos&layout=compact&langs_count=12&hide_progress=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"  height="167px"
+    />
+    <img src="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/top-langs/?username=aillos&layout=compact&langs_count=12&hide_progress=true"  height="167px" />
+  </picture>
+</div>
 
-![Aillos' Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aillos&layout=compact)
