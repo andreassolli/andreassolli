@@ -1,4 +1,4 @@
-### Hi there <img src="https://github.com/aillos/aillos/blob/main/doverndyr.gif" width="50"> 👋
+### Hi there <iframe src="https://giphy.com/embed/KHyWC1gSjutzb9v1b3" width="50" height="50" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/transparent-KHyWC1gSjutzb9v1b3"></a></p>👋
 
 <!--
 **aillos/aillos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
