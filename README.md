@@ -13,6 +13,7 @@ Andreas Sandvik Solli (aillos)
 🌟 Main languages: Java, JavaScript, C#, Python
 🧗‍♂️ Always striving for the highest achievements in the games I play
 💬 Can recommend an anime or explain why you should read/watch Berserk
+🔗 My portfolio website: https://solli.dev
 ```
 <hr>
 
