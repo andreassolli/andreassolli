@@ -1,4 +1,4 @@
-### Hi there <img src="https://giphy.com/embed/KHyWC1gSjutzb9v1b3" width="50" />👋
+### Hi there <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzF3em15OXB4anBuNjE4aGgzM3drMGVobDI1N2hua2E2OHlkdm1tMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KHyWC1gSjutzb9v1b3/source.gif" width="50" />👋
 
 <!--
 **aillos/aillos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
