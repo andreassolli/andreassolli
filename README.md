@@ -36,10 +36,10 @@ Andreas Sandvik Solli (aillos)
       media="(prefers-color-scheme: dark)"  height="167px" width="430px"
     />
     <source
-      srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/top-langs/?username=aillos&layout=compact&langs_count=12&hide_progress=true"
+      srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/top-langs/?username=aillos&layout=compact&langs_count=12&hide_progress=true&card_width=400"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"  height="167px" width="430px"
     />
-    <img src="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/top-langs/?username=aillos&layout=compact&langs_count=12&hide_progress=true"  height="167px" width="430px"/>
+    <img src="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/top-langs/?username=aillos&layout=compact&langs_count=12&hide_progress=true&card_width=400"  height="167px" width="430px"/>
   </picture>
 </div>
 
