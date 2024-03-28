@@ -20,7 +20,7 @@ Andreas Sandvik Solli (aillos)
 <div align="center" >
   <picture>
     <source
-      srcset="https://github-readme-stats-aillos-projects.vercel.app/api?username=aillos&show_icons=true&theme=github_dark"
+      srcset="https://github-readme-stats-aillos-projects.vercel.app/api?username=aillos&show_icons=true&theme=github_dark_dimmed"
       media="(prefers-color-scheme: dark)" width="400px"
     />
     <source
@@ -32,7 +32,7 @@ Andreas Sandvik Solli (aillos)
   
   <picture>
     <source
-      srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/top-langs/?username=aillos&layout=compact&theme=github_dark&langs_count=12&hide_progress=true&card_width=400"
+      srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/top-langs/?username=aillos&layout=compact&theme=github_dark_dimmed&langs_count=12&hide_progress=true&card_width=400"
       media="(prefers-color-scheme: dark)"  height="167px" width="430px"
     />
     <source
