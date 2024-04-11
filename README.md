@@ -46,7 +46,7 @@ Andreas Sandvik Solli (aillos)
 <div>
   <h2 align="center">School Work</h2>
   <div align="center">
-  <p>DATA2410 - Computer Networks and Cloud Services</p>
+  DATA2410 - Computer Networks and Cloud Services <br/>
     <a href="https://www.github.com/aillos/dataskyOblig1">
    <picture>
     <source
@@ -77,7 +77,7 @@ Andreas Sandvik Solli (aillos)
     </a>
   </div>
   <div align="center">
-  <p>DAVE3625 - Introduction to Artificial Intelligence</p>
+   DAVE3625 - Introduction to Artificial Intelligence <br/>
     <a href="https://www.github.com/aillos/introAiOblig1">
    <picture>
     <source
@@ -108,7 +108,7 @@ Andreas Sandvik Solli (aillos)
     </a>
   </div>
     <div align="center">
-  <p>DATA3800 - Introduction to Data Science with Scripting</p>
+   DATA3800 - Introduction to Data Science with Scripting <br/>
       <a href="https://www.github.com/aillos/FinnCrawler">
    <picture>
     <source
@@ -139,7 +139,7 @@ Andreas Sandvik Solli (aillos)
       </a>
   </div>
         <div align="center">
-  <p>ITPE3200 - Webapplications</p>
+   ITPE3200 - Webapplications <br/>
       <a href="https://www.github.com/aillos/webAppOblig1">
    <picture>
     <source
@@ -170,7 +170,7 @@ Andreas Sandvik Solli (aillos)
         </a>
   </div>
   <div align="center">
-  <p>DATS2300 - Algorithms & Data structures, ADTS2310 - Software Testing</p>
+   DATS2300 - Algorithms & Data structures, ADTS2310 - Software Testing <br/>
       <a href="https://www.github.com/aillos/algdatOblig1">
    <picture>
     <source
@@ -224,6 +224,96 @@ Andreas Sandvik Solli (aillos)
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"  height="167px" width="400px"
     />
     <img src="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=aillos&repo=NettbankTesting&card_width=400"  
+      height="167px" width="400px"/>
+  </picture>
+      </a>
+  </div>
+          <div align="center">
+   ADTS1600 - Interactive design & Prototyping, ADSE1310 - Internet of Things <br/>
+      <a href="https://www.github.com/aillos/adts1600">
+   <picture>
+    <source
+      srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=aillos&repo=adts1600&theme=transparent&card_width=400"
+      media="(prefers-color-scheme: dark)"  height="167px" width="400px"
+    />
+    <source
+      srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=aillos&repo=adts1600&card_width=400""
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"  height="167px" width="400px"
+    />
+    <img src="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=aillos&repo=adts1600&card_width=400"  
+      height="167px" width="400px"/>
+  </picture>
+      </a>
+        <a href="https://www.github.com/aillos/iotOblig">
+  <picture>
+    <source
+      srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=aillos&repo=iotOblig&theme=transparent&card_width=400"
+      media="(prefers-color-scheme: dark)"  height="167px" width="400px"
+    />
+    <source
+      srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=aillos&repo=iotOblig&card_width=400""
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"  height="167px" width="400px"
+    />
+    <img src="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=aillos&repo=iotOblig&card_width=400"  
+      height="167px" width="400px"/>
+  </picture>
+        </a>
+  </div>
+    <div align="center">
+   DATS2300 - Web development <br/>
+        <a href="https://www.github.com/aillos/Oblig1Web">
+  <picture>
+    <source
+      srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=aillos&repo=Oblig1Web&theme=transparent&card_width=400"
+      media="(prefers-color-scheme: dark)"  height="167px" width="400px"
+    />
+    <source
+      srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=aillos&repo=Oblig1Web&card_width=400""
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"  height="167px" width="400px"
+    />
+    <img src="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=aillos&repo=Oblig1Web&card_width=400"  
+      height="167px" width="400px"/>
+  </picture>
+        </a>
+      <a href="https://www.github.com/aillos/Oblig2">
+   <picture>
+    <source
+      srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=aillos&repo=Oblig2&theme=transparent&card_width=400"
+      media="(prefers-color-scheme: dark)"  height="167px" width="400px"
+    />
+    <source
+      srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=aillos&repo=Oblig2&card_width=400""
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"  height="167px" width="400px"
+    />
+    <img src="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=aillos&repo=Oblig2&card_width=400"  
+      height="167px" width="400px"/>
+  </picture>
+      </a>
+            <a href="https://www.github.com/aillos/Oblig2Webut">
+   <picture>
+    <source
+      srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=aillos&repo=Oblig2Webut&theme=transparent&card_width=400"
+      media="(prefers-color-scheme: dark)"  height="167px" width="400px"
+    />
+    <source
+      srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=aillos&repo=Oblig2Webut&card_width=400""
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"  height="167px" width="400px"
+    />
+    <img src="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=aillos&repo=Oblig2Webut&card_width=400"  
+      height="167px" width="400px"/>
+  </picture>
+        </a>
+          <a href="https://www.github.com/aillos/Webutvikling-Eksamen">
+   <picture>
+    <source
+      srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=aillos&repo=Webutvikling-Eksamen&theme=transparent&card_width=400"
+      media="(prefers-color-scheme: dark)"  height="167px" width="400px"
+    />
+    <source
+      srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=aillos&repo=Webutvikling-Eksamen&card_width=400""
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"  height="167px" width="400px"
+    />
+    <img src="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=aillos&repo=Webutvikling-Eksamen&card_width=400"  
       height="167px" width="400px"/>
   </picture>
       </a>
