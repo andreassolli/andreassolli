@@ -126,14 +126,14 @@ Andreas Sandvik Solli (aillos)
       <a href="https://www.github.com/aillos/dataSci">
   <picture>
     <source
-      srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=aillos&repo=introAiOblig2&theme=transparent&card_width=400"
+      srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=aillos&repo=dataSci&theme=transparent&card_width=400"
       media="(prefers-color-scheme: dark)"  height="167px" width="400px"
     />
     <source
-      srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=aillos&repo=introAiOblig2&card_width=400""
+      srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=aillos&repo=dataSci&card_width=400""
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"  height="167px" width="400px"
     />
-    <img src="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=aillos&repo=introAiOblig2&card_width=400"  
+    <img src="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=aillos&repo=dataSci&card_width=400"  
       height="167px" width="400px"/>
   </picture>
       </a>
