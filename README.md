@@ -46,7 +46,7 @@ Andreas Sandvik Solli (aillos)
 <div>
   <h2 align="center">School Work</h2>
   <div align="center">
-  <h3>DATA2410 - Computer Networks and Cloud Services</h3>
+  <p>DATA2410 - Computer Networks and Cloud Services</p>
     <a href="https://www.github.com/aillos/dataskyOblig1">
    <picture>
     <source
@@ -77,7 +77,7 @@ Andreas Sandvik Solli (aillos)
     </a>
   </div>
   <div align="center">
-  <h3>DAVE3625 - Introduction to Artificial Intelligence</h3>
+  <p>DAVE3625 - Introduction to Artificial Intelligence</p>
     <a href="https://www.github.com/aillos/introAiOblig1">
    <picture>
     <source
@@ -108,7 +108,7 @@ Andreas Sandvik Solli (aillos)
     </a>
   </div>
     <div align="center">
-  <h3>DATA3800 - Introduction to Data Science with Scripting</h3>
+  <p>DATA3800 - Introduction to Data Science with Scripting</p>
       <a href="https://www.github.com/aillos/FinnCrawler">
    <picture>
     <source
@@ -139,7 +139,7 @@ Andreas Sandvik Solli (aillos)
       </a>
   </div>
         <div align="center">
-  <h3>ITPE3200 - Webapplications</h3>
+  <p>ITPE3200 - Webapplications</p>
       <a href="https://www.github.com/aillos/webAppOblig1">
    <picture>
     <source
@@ -170,7 +170,7 @@ Andreas Sandvik Solli (aillos)
         </a>
   </div>
   <div align="center">
-  <h3>DATS2300 - Algorithms & Data structures, ADTS2310 - Software Testing</h3>
+  <p>DATS2300 - Algorithms & Data structures, ADTS2310 - Software Testing</p>
       <a href="https://www.github.com/aillos/algdatOblig1">
    <picture>
     <source
