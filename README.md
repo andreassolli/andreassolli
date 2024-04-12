@@ -46,275 +46,275 @@ Andreas Sandvik Solli (aillos)
 <div>
   <h2 align="center">School Work</h2>
   <div align="center">
-  DATA2410 - Computer Networks and Cloud Services <br/>
+  <h3>DATA2410 - Computer Networks and Cloud Services </h3>
     <a href="https://www.github.com/aillos/dataskyOblig1">
    <picture>
     <source
       srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=aillos&repo=dataskyOblig1&theme=transparent&card_width=400"
-      media="(prefers-color-scheme: dark)"  height="167px" width="400px"
+      media="(prefers-color-scheme: dark)"    width="400px"
     />
     <source
       srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=aillos&repo=dataskyOblig1&card_width=400""
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"  height="167px" width="400px"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"    width="400px"
     />
     <img src="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=aillos&repo=dataskyOblig1&card_width=400"  
-      height="167px" width="400px"/>
+        width="400px"/>
   </picture>
     </a>
     <a href="https://www.github.com/aillos/dataskyOblig2">
   <picture>
     <source
       srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=aillos&repo=dataskyOblig2&theme=transparent&card_width=400"
-      media="(prefers-color-scheme: dark)"  height="167px" width="400px"
+      media="(prefers-color-scheme: dark)"    width="400px"
     />
     <source
       srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=aillos&repo=dataskyOblig2&card_width=400""
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"  height="167px" width="400px"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"    width="400px"
     />
     <img src="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=aillos&repo=dataskyOblig2&card_width=400"  
-      height="167px" width="400px"/>
+        width="400px"/>
   </picture>
     </a>
   </div>
   <div align="center">
-   DAVE3625 - Introduction to Artificial Intelligence <br/>
+   <h3>DAVE3625 - Introduction to Artificial Intelligence </h3>
     <a href="https://www.github.com/aillos/introAiOblig1">
    <picture>
     <source
       srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=aillos&repo=introAiOblig1&theme=transparent&card_width=400"
-      media="(prefers-color-scheme: dark)"  height="167px" width="400px"
+      media="(prefers-color-scheme: dark)"    width="400px"
     />
     <source
       srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=aillos&repo=introAiOblig1&card_width=400""
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"  height="167px" width="400px"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"    width="400px"
     />
     <img src="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=aillos&repo=introAiOblig1&card_width=400"  
-      height="167px" width="400px"/>
+        width="400px"/>
   </picture>
     </a>
     <a href="https://www.github.com/aillos/introAiOblig2">
   <picture>
     <source
       srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=aillos&repo=introAiOblig2&theme=transparent&card_width=400"
-      media="(prefers-color-scheme: dark)"  height="167px" width="400px"
+      media="(prefers-color-scheme: dark)"    width="400px"
     />
     <source
       srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=aillos&repo=introAiOblig2&card_width=400""
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"  height="167px" width="400px"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"    width="400px"
     />
     <img src="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=aillos&repo=introAiOblig2&card_width=400"  
-      height="167px" width="400px"/>
+        width="400px"/>
   </picture>
     </a>
   </div>
     <div align="center">
-   DATA3800 - Introduction to Data Science with Scripting <br/>
+  <h3>DATA3800 - Introduction to Data Science with Scripting</h3>
       <a href="https://www.github.com/aillos/FinnCrawler">
    <picture>
     <source
       srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=aillos&repo=FinnCrawler&theme=transparent&card_width=400"
-      media="(prefers-color-scheme: dark)"  height="167px" width="400px"
+      media="(prefers-color-scheme: dark)"    width="400px"
     />
     <source
       srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=aillos&repo=FinnCrawler&card_width=400""
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"  height="167px" width="400px"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"    width="400px"
     />
     <img src="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=aillos&repo=FinnCrawler&card_width=400"  
-      height="167px" width="400px"/>
+        width="400px"/>
   </picture>
       </a>
       <a href="https://www.github.com/aillos/dataSci">
   <picture>
     <source
       srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=aillos&repo=dataSci&theme=transparent&card_width=400"
-      media="(prefers-color-scheme: dark)"  height="167px" width="400px"
+      media="(prefers-color-scheme: dark)"    width="400px"
     />
     <source
       srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=aillos&repo=dataSci&card_width=400""
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"  height="167px" width="400px"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"    width="400px"
     />
     <img src="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=aillos&repo=dataSci&card_width=400"  
-      height="167px" width="400px"/>
+        width="400px"/>
   </picture>
       </a>
   </div>
         <div align="center">
-   ITPE3200 - Webapplications <br/>
+   <h3>ITPE3200 - Webapplications</h3>
       <a href="https://www.github.com/aillos/webAppOblig1">
    <picture>
     <source
       srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=aillos&repo=webAppOblig1&theme=transparent&card_width=400"
-      media="(prefers-color-scheme: dark)"  height="167px" width="400px"
+      media="(prefers-color-scheme: dark)"    width="400px"
     />
     <source
       srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=aillos&repo=webAppOblig1&card_width=400""
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"  height="167px" width="400px"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"    width="400px"
     />
     <img src="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=aillos&repo=webAppOblig1&card_width=400"  
-      height="167px" width="400px"/>
+        width="400px"/>
   </picture>
       </a>
         <a href="https://www.github.com/aillos/webAppOblig2">
   <picture>
     <source
       srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=aillos&repo=webAppOblig2&theme=transparent&card_width=400"
-      media="(prefers-color-scheme: dark)"  height="167px" width="400px"
+      media="(prefers-color-scheme: dark)"    width="400px"
     />
     <source
       srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=aillos&repo=webAppOblig2&card_width=400""
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"  height="167px" width="400px"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"    width="400px"
     />
     <img src="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=aillos&repo=webAppOblig2&card_width=400"  
-      height="167px" width="400px"/>
+        width="400px"/>
   </picture>
         </a>
   </div>
   <div align="center">
-   DATS2300 - Algorithms & Data structures, ADTS2310 - Software Testing <br/>
+   <h3>DATS2300 - Algorithms & Data structures, ADTS2310 - Software Testing</h3>
       <a href="https://www.github.com/aillos/algdatOblig1">
    <picture>
     <source
       srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=aillos&repo=algdatOblig1&theme=transparent&card_width=400"
-      media="(prefers-color-scheme: dark)"  height="167px" width="400px"
+      media="(prefers-color-scheme: dark)"    width="400px"
     />
     <source
       srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=aillos&repo=algdatOblig1&card_width=400""
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"  height="167px" width="400px"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"    width="400px"
     />
     <img src="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=aillos&repo=algdatOblig1&card_width=400"  
-      height="167px" width="400px"/>
+        width="400px"/>
   </picture>
       </a>
         <a href="https://www.github.com/aillos/algdatOblig2">
   <picture>
     <source
       srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=aillos&repo=algdatOblig2&theme=transparent&card_width=400"
-      media="(prefers-color-scheme: dark)"  height="167px" width="400px"
+      media="(prefers-color-scheme: dark)"    width="400px"
     />
     <source
       srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=aillos&repo=algdatOblig2&card_width=400""
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"  height="167px" width="400px"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"    width="400px"
     />
     <img src="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=aillos&repo=algdatOblig2&card_width=400"  
-      height="167px" width="400px"/>
+        width="400px"/>
   </picture>
         </a>
           <a href="https://www.github.com/aillos/algdatOblig3">
    <picture>
     <source
       srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=aillos&repo=algdatOblig3&theme=transparent&card_width=400"
-      media="(prefers-color-scheme: dark)"  height="167px" width="400px"
+      media="(prefers-color-scheme: dark)"    width="400px"
     />
     <source
       srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=aillos&repo=algdatOblig3&card_width=400""
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"  height="167px" width="400px"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"    width="400px"
     />
     <img src="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=aillos&repo=algdatOblig3&card_width=400"  
-      height="167px" width="400px"/>
+        width="400px"/>
   </picture>
       </a>
           <a href="https://www.github.com/aillos/NettbankTesting">
    <picture>
     <source
       srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=aillos&repo=NettbankTesting&theme=transparent&card_width=400"
-      media="(prefers-color-scheme: dark)"  height="167px" width="400px"
+      media="(prefers-color-scheme: dark)"    width="400px"
     />
     <source
       srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=aillos&repo=NettbankTesting&card_width=400""
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"  height="167px" width="400px"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"    width="400px"
     />
     <img src="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=aillos&repo=NettbankTesting&card_width=400"  
-      height="167px" width="400px"/>
+        width="400px"/>
   </picture>
       </a>
   </div>
           <div align="center">
-   ADTS1600 - Interactive design & Prototyping, ADSE1310 - Internet of Things <br/>
+   <h3>ADTS1600 - Interactive design & Prototyping, ADSE1310 - Internet of Things</h3>
       <a href="https://www.github.com/aillos/adts1600">
    <picture>
     <source
       srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=aillos&repo=adts1600&theme=transparent&card_width=400"
-      media="(prefers-color-scheme: dark)"  height="167px" width="400px"
+      media="(prefers-color-scheme: dark)"    width="400px"
     />
     <source
       srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=aillos&repo=adts1600&card_width=400""
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"  height="167px" width="400px"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"    width="400px"
     />
     <img src="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=aillos&repo=adts1600&card_width=400"  
-      height="167px" width="400px"/>
+        width="400px"/>
   </picture>
       </a>
         <a href="https://www.github.com/aillos/iotOblig">
   <picture>
     <source
       srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=aillos&repo=iotOblig&theme=transparent&card_width=400"
-      media="(prefers-color-scheme: dark)"  height="167px" width="400px"
+      media="(prefers-color-scheme: dark)"    width="400px"
     />
     <source
       srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=aillos&repo=iotOblig&card_width=400""
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"  height="167px" width="400px"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"    width="400px"
     />
     <img src="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=aillos&repo=iotOblig&card_width=400"  
-      height="167px" width="400px"/>
+        width="400px"/>
   </picture>
         </a>
   </div>
     <div align="center">
-   DATS2300 - Web development <br/>
+   <h3>DATS2300 - Web development</h3>
         <a href="https://www.github.com/aillos/Oblig1Web">
   <picture>
     <source
       srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=aillos&repo=Oblig1Web&theme=transparent&card_width=400"
-      media="(prefers-color-scheme: dark)"  height="167px" width="400px"
+      media="(prefers-color-scheme: dark)"    width="400px"
     />
     <source
       srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=aillos&repo=Oblig1Web&card_width=400""
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"  height="167px" width="400px"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"    width="400px"
     />
     <img src="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=aillos&repo=Oblig1Web&card_width=400"  
-      height="167px" width="400px"/>
+        width="400px"/>
   </picture>
         </a>
       <a href="https://www.github.com/aillos/Oblig2">
    <picture>
     <source
       srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=aillos&repo=Oblig2&theme=transparent&card_width=400"
-      media="(prefers-color-scheme: dark)"  height="167px" width="400px"
+      media="(prefers-color-scheme: dark)"    width="400px"
     />
     <source
       srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=aillos&repo=Oblig2&card_width=400""
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"  height="167px" width="400px"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"    width="400px"
     />
     <img src="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=aillos&repo=Oblig2&card_width=400"  
-      height="167px" width="400px"/>
+        width="400px"/>
   </picture>
       </a>
             <a href="https://www.github.com/aillos/Oblig2Webut">
    <picture>
     <source
       srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=aillos&repo=Oblig2Webut&theme=transparent&card_width=400"
-      media="(prefers-color-scheme: dark)"  height="167px" width="400px"
+      media="(prefers-color-scheme: dark)"    width="400px"
     />
     <source
       srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=aillos&repo=Oblig2Webut&card_width=400""
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"  height="167px" width="400px"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"    width="400px"
     />
     <img src="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=aillos&repo=Oblig2Webut&card_width=400"  
-      height="167px" width="400px"/>
+        width="400px"/>
   </picture>
         </a>
           <a href="https://www.github.com/aillos/Webutvikling-Eksamen">
    <picture>
     <source
       srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=aillos&repo=Webutvikling-Eksamen&theme=transparent&card_width=400"
-      media="(prefers-color-scheme: dark)"  height="167px" width="400px"
+      media="(prefers-color-scheme: dark)"    width="400px"
     />
     <source
       srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=aillos&repo=Webutvikling-Eksamen&card_width=400""
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"  height="167px" width="400px"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"    width="400px"
     />
     <img src="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=aillos&repo=Webutvikling-Eksamen&card_width=400"  
-      height="167px" width="400px"/>
+        width="400px"/>
   </picture>
       </a>
   </div>
