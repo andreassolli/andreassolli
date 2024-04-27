@@ -24,7 +24,7 @@ Andreas Sandvik Solli (andreassolli)
       media="(prefers-color-scheme: dark)" width="400px"
     />
     <source
-      srcset="https://github-readme-stats-andreassolli-projects.vercel.app/api?username=andreassolli&show_icons=true"
+      srcset="https://github-readme-stats-aillos-projects.vercel.app/api?username=andreassolli&show_icons=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" width="400px"
     />
     <img src="https://github-readme-stats-aillos-projects.vercel.app/api?username=andreassolli&show_icons=true" width="400px" />
@@ -50,28 +50,28 @@ Andreas Sandvik Solli (andreassolli)
     <a href="https://www.github.com/andreassolli/dataskyOblig1">
    <picture>
     <source
-      srcset="https://github-readme-stats-git-dependabot-npman-374823-andreassolli-projects.vercel.app/api/pin?username=andreassolli&repo=dataskyOblig1&theme=transparent&card_width=400"
+      srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=andreassolli&repo=dataskyOblig1&theme=transparent&card_width=400"
       media="(prefers-color-scheme: dark)"    width="400px"
     />
     <source
-      srcset="https://github-readme-stats-git-dependabot-npman-374823-andreassolli-projects.vercel.app/api/pin?username=andreassolli&repo=dataskyOblig1&card_width=400""
+      srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=andreassolli&repo=dataskyOblig1&card_width=400""
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"    width="400px"
     />
-    <img src="https://github-readme-stats-git-dependabot-npman-374823-andreassolli-projects.vercel.app/api/pin?username=andreassolli&repo=dataskyOblig1&card_width=400"  
+    <img src="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=andreassolli&repo=dataskyOblig1&card_width=400"  
         width="400px"/>
   </picture>
     </a>
     <a href="https://www.github.com/andreassolli/dataskyOblig2">
   <picture>
     <source
-      srcset="https://github-readme-stats-git-dependabot-npman-374823-andreassolli-projects.vercel.app/api/pin?username=andreassolli&repo=dataskyOblig2&theme=transparent&card_width=400"
+      srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=andreassolli&repo=dataskyOblig2&theme=transparent&card_width=400"
       media="(prefers-color-scheme: dark)"    width="400px"
     />
     <source
-      srcset="https://github-readme-stats-git-dependabot-npman-374823-andreassolli-projects.vercel.app/api/pin?username=andreassolli&repo=dataskyOblig2&card_width=400""
+      srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=andreassolli&repo=dataskyOblig2&card_width=400""
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"    width="400px"
     />
-    <img src="https://github-readme-stats-git-dependabot-npman-374823-andreassolli-projects.vercel.app/api/pin?username=andreassolli&repo=dataskyOblig2&card_width=400"  
+    <img src="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=andreassolli&repo=dataskyOblig2&card_width=400"  
         width="400px"/>
   </picture>
     </a>
@@ -81,28 +81,28 @@ Andreas Sandvik Solli (andreassolli)
     <a href="https://www.github.com/andreassolli/introAiOblig1">
    <picture>
     <source
-      srcset="https://github-readme-stats-git-dependabot-npman-374823-andreassolli-projects.vercel.app/api/pin?username=andreassolli&repo=introAiOblig1&theme=transparent&card_width=400"
+      srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=andreassolli&repo=introAiOblig1&theme=transparent&card_width=400"
       media="(prefers-color-scheme: dark)"    width="400px"
     />
     <source
-      srcset="https://github-readme-stats-git-dependabot-npman-374823-andreassolli-projects.vercel.app/api/pin?username=andreassolli&repo=introAiOblig1&card_width=400""
+      srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=andreassolli&repo=introAiOblig1&card_width=400""
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"    width="400px"
     />
-    <img src="https://github-readme-stats-git-dependabot-npman-374823-andreassolli-projects.vercel.app/api/pin?username=andreassolli&repo=introAiOblig1&card_width=400"  
+    <img src="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=andreassolli&repo=introAiOblig1&card_width=400"  
         width="400px"/>
   </picture>
     </a>
     <a href="https://www.github.com/andreassolli/introAiOblig2">
   <picture>
     <source
-      srcset="https://github-readme-stats-git-dependabot-npman-374823-andreassolli-projects.vercel.app/api/pin?username=andreassolli&repo=introAiOblig2&theme=transparent&card_width=400"
+      srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=andreassolli&repo=introAiOblig2&theme=transparent&card_width=400"
       media="(prefers-color-scheme: dark)"    width="400px"
     />
     <source
-      srcset="https://github-readme-stats-git-dependabot-npman-374823-andreassolli-projects.vercel.app/api/pin?username=andreassolli&repo=introAiOblig2&card_width=400""
+      srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=andreassolli&repo=introAiOblig2&card_width=400""
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"    width="400px"
     />
-    <img src="https://github-readme-stats-git-dependabot-npman-374823-andreassolli-projects.vercel.app/api/pin?username=andreassolli&repo=introAiOblig2&card_width=400"  
+    <img src="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=andreassolli&repo=introAiOblig2&card_width=400"  
         width="400px"/>
   </picture>
     </a>
@@ -112,28 +112,28 @@ Andreas Sandvik Solli (andreassolli)
       <a href="https://www.github.com/andreassolli/FinnCrawler">
    <picture>
     <source
-      srcset="https://github-readme-stats-git-dependabot-npman-374823-andreassolli-projects.vercel.app/api/pin?username=andreassolli&repo=FinnCrawler&theme=transparent&card_width=400"
+      srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=andreassolli&repo=FinnCrawler&theme=transparent&card_width=400"
       media="(prefers-color-scheme: dark)"    width="400px"
     />
     <source
-      srcset="https://github-readme-stats-git-dependabot-npman-374823-andreassolli-projects.vercel.app/api/pin?username=andreassolli&repo=FinnCrawler&card_width=400""
+      srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=andreassolli&repo=FinnCrawler&card_width=400""
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"    width="400px"
     />
-    <img src="https://github-readme-stats-git-dependabot-npman-374823-andreassolli-projects.vercel.app/api/pin?username=andreassolli&repo=FinnCrawler&card_width=400"  
+    <img src="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=andreassolli&repo=FinnCrawler&card_width=400"  
         width="400px"/>
   </picture>
       </a>
       <a href="https://www.github.com/andreassolli/dataSci">
   <picture>
     <source
-      srcset="https://github-readme-stats-git-dependabot-npman-374823-andreassolli-projects.vercel.app/api/pin?username=andreassolli&repo=dataSci&theme=transparent&card_width=400"
+      srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=andreassolli&repo=dataSci&theme=transparent&card_width=400"
       media="(prefers-color-scheme: dark)"    width="400px"
     />
     <source
-      srcset="https://github-readme-stats-git-dependabot-npman-374823-andreassolli-projects.vercel.app/api/pin?username=andreassolli&repo=dataSci&card_width=400""
+      srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=andreassolli&repo=dataSci&card_width=400""
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"    width="400px"
     />
-    <img src="https://github-readme-stats-git-dependabot-npman-374823-andreassolli-projects.vercel.app/api/pin?username=andreassolli&repo=dataSci&card_width=400"  
+    <img src="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=andreassolli&repo=dataSci&card_width=400"  
         width="400px"/>
   </picture>
       </a>
@@ -143,28 +143,28 @@ Andreas Sandvik Solli (andreassolli)
       <a href="https://www.github.com/andreassolli/webAppOblig1">
    <picture>
     <source
-      srcset="https://github-readme-stats-git-dependabot-npman-374823-andreassolli-projects.vercel.app/api/pin?username=andreassolli&repo=webAppOblig1&theme=transparent&card_width=400"
+      srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=andreassolli&repo=webAppOblig1&theme=transparent&card_width=400"
       media="(prefers-color-scheme: dark)"    width="400px"
     />
     <source
-      srcset="https://github-readme-stats-git-dependabot-npman-374823-andreassolli-projects.vercel.app/api/pin?username=andreassolli&repo=webAppOblig1&card_width=400""
+      srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=andreassolli&repo=webAppOblig1&card_width=400""
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"    width="400px"
     />
-    <img src="https://github-readme-stats-git-dependabot-npman-374823-andreassolli-projects.vercel.app/api/pin?username=andreassolli&repo=webAppOblig1&card_width=400"  
+    <img src="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=andreassolli&repo=webAppOblig1&card_width=400"  
         width="400px"/>
   </picture>
       </a>
         <a href="https://www.github.com/andreassolli/webAppOblig2">
   <picture>
     <source
-      srcset="https://github-readme-stats-git-dependabot-npman-374823-andreassolli-projects.vercel.app/api/pin?username=andreassolli&repo=webAppOblig2&theme=transparent&card_width=400"
+      srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=andreassolli&repo=webAppOblig2&theme=transparent&card_width=400"
       media="(prefers-color-scheme: dark)"    width="400px"
     />
     <source
-      srcset="https://github-readme-stats-git-dependabot-npman-374823-andreassolli-projects.vercel.app/api/pin?username=andreassolli&repo=webAppOblig2&card_width=400""
+      srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=andreassolli&repo=webAppOblig2&card_width=400""
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"    width="400px"
     />
-    <img src="https://github-readme-stats-git-dependabot-npman-374823-andreassolli-projects.vercel.app/api/pin?username=andreassolli&repo=webAppOblig2&card_width=400"  
+    <img src="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=andreassolli&repo=webAppOblig2&card_width=400"  
         width="400px"/>
   </picture>
         </a>
@@ -174,56 +174,56 @@ Andreas Sandvik Solli (andreassolli)
       <a href="https://www.github.com/andreassolli/algdatOblig1">
    <picture>
     <source
-      srcset="https://github-readme-stats-git-dependabot-npman-374823-andreassolli-projects.vercel.app/api/pin?username=andreassolli&repo=algdatOblig1&theme=transparent&card_width=400"
+      srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=andreassolli&repo=algdatOblig1&theme=transparent&card_width=400"
       media="(prefers-color-scheme: dark)"    width="400px"
     />
     <source
-      srcset="https://github-readme-stats-git-dependabot-npman-374823-andreassolli-projects.vercel.app/api/pin?username=andreassolli&repo=algdatOblig1&card_width=400""
+      srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=andreassolli&repo=algdatOblig1&card_width=400""
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"    width="400px"
     />
-    <img src="https://github-readme-stats-git-dependabot-npman-374823-andreassolli-projects.vercel.app/api/pin?username=andreassolli&repo=algdatOblig1&card_width=400"  
+    <img src="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=andreassolli&repo=algdatOblig1&card_width=400"  
         width="400px"/>
   </picture>
       </a>
         <a href="https://www.github.com/andreassolli/algdatOblig2">
   <picture>
     <source
-      srcset="https://github-readme-stats-git-dependabot-npman-374823-andreassolli-projects.vercel.app/api/pin?username=andreassolli&repo=algdatOblig2&theme=transparent&card_width=400"
+      srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=andreassolli&repo=algdatOblig2&theme=transparent&card_width=400"
       media="(prefers-color-scheme: dark)"    width="400px"
     />
     <source
-      srcset="https://github-readme-stats-git-dependabot-npman-374823-andreassolli-projects.vercel.app/api/pin?username=andreassolli&repo=algdatOblig2&card_width=400""
+      srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=andreassolli&repo=algdatOblig2&card_width=400""
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"    width="400px"
     />
-    <img src="https://github-readme-stats-git-dependabot-npman-374823-andreassolli-projects.vercel.app/api/pin?username=andreassolli&repo=algdatOblig2&card_width=400"  
+    <img src="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=andreassolli&repo=algdatOblig2&card_width=400"  
         width="400px"/>
   </picture>
         </a>
           <a href="https://www.github.com/andreassolli/algdatOblig3">
    <picture>
     <source
-      srcset="https://github-readme-stats-git-dependabot-npman-374823-andreassolli-projects.vercel.app/api/pin?username=andreassolli&repo=algdatOblig3&theme=transparent&card_width=400"
+      srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=andreassolli&repo=algdatOblig3&theme=transparent&card_width=400"
       media="(prefers-color-scheme: dark)"    width="400px"
     />
     <source
-      srcset="https://github-readme-stats-git-dependabot-npman-374823-andreassolli-projects.vercel.app/api/pin?username=andreassolli&repo=algdatOblig3&card_width=400""
+      srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=andreassolli&repo=algdatOblig3&card_width=400""
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"    width="400px"
     />
-    <img src="https://github-readme-stats-git-dependabot-npman-374823-andreassolli-projects.vercel.app/api/pin?username=andreassolli&repo=algdatOblig3&card_width=400"  
+    <img src="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=andreassolli&repo=algdatOblig3&card_width=400"  
         width="400px"/>
   </picture>
       </a>
           <a href="https://www.github.com/andreassolli/NettbankTesting">
    <picture>
     <source
-      srcset="https://github-readme-stats-git-dependabot-npman-374823-andreassolli-projects.vercel.app/api/pin?username=andreassolli&repo=NettbankTesting&theme=transparent&card_width=400"
+      srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=andreassolli&repo=NettbankTesting&theme=transparent&card_width=400"
       media="(prefers-color-scheme: dark)"    width="400px"
     />
     <source
-      srcset="https://github-readme-stats-git-dependabot-npman-374823-andreassolli-projects.vercel.app/api/pin?username=andreassolli&repo=NettbankTesting&card_width=400""
+      srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=andreassolli&repo=NettbankTesting&card_width=400""
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"    width="400px"
     />
-    <img src="https://github-readme-stats-git-dependabot-npman-374823-andreassolli-projects.vercel.app/api/pin?username=andreassolli&repo=NettbankTesting&card_width=400"  
+    <img src="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=andreassolli&repo=NettbankTesting&card_width=400"  
         width="400px"/>
   </picture>
       </a>
@@ -233,28 +233,28 @@ Andreas Sandvik Solli (andreassolli)
       <a href="https://www.github.com/andreassolli/adts1600">
    <picture>
     <source
-      srcset="https://github-readme-stats-git-dependabot-npman-374823-andreassolli-projects.vercel.app/api/pin?username=andreassolli&repo=adts1600&theme=transparent&card_width=400"
+      srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=andreassolli&repo=adts1600&theme=transparent&card_width=400"
       media="(prefers-color-scheme: dark)"    width="400px"
     />
     <source
-      srcset="https://github-readme-stats-git-dependabot-npman-374823-andreassolli-projects.vercel.app/api/pin?username=andreassolli&repo=adts1600&card_width=400""
+      srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=andreassolli&repo=adts1600&card_width=400""
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"    width="400px"
     />
-    <img src="https://github-readme-stats-git-dependabot-npman-374823-andreassolli-projects.vercel.app/api/pin?username=andreassolli&repo=adts1600&card_width=400"  
+    <img src="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=andreassolli&repo=adts1600&card_width=400"  
         width="400px"/>
   </picture>
       </a>
         <a href="https://www.github.com/andreassolli/iotOblig">
   <picture>
     <source
-      srcset="https://github-readme-stats-git-dependabot-npman-374823-andreassolli-projects.vercel.app/api/pin?username=andreassolli&repo=iotOblig&theme=transparent&card_width=400"
+      srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=andreassolli&repo=iotOblig&theme=transparent&card_width=400"
       media="(prefers-color-scheme: dark)"    width="400px"
     />
     <source
-      srcset="https://github-readme-stats-git-dependabot-npman-374823-andreassolli-projects.vercel.app/api/pin?username=andreassolli&repo=iotOblig&card_width=400""
+      srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=andreassolli&repo=iotOblig&card_width=400""
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"    width="400px"
     />
-    <img src="https://github-readme-stats-git-dependabot-npman-374823-andreassolli-projects.vercel.app/api/pin?username=andreassolli&repo=iotOblig&card_width=400"  
+    <img src="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=andreassolli&repo=iotOblig&card_width=400"  
         width="400px"/>
   </picture>
         </a>
@@ -264,56 +264,56 @@ Andreas Sandvik Solli (andreassolli)
         <a href="https://www.github.com/andreassolli/Oblig1Web">
   <picture>
     <source
-      srcset="https://github-readme-stats-git-dependabot-npman-374823-andreassolli-projects.vercel.app/api/pin?username=andreassolli&repo=Oblig1Web&theme=transparent&card_width=400"
+      srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=andreassolli&repo=Oblig1Web&theme=transparent&card_width=400"
       media="(prefers-color-scheme: dark)"    width="400px"
     />
     <source
-      srcset="https://github-readme-stats-git-dependabot-npman-374823-andreassolli-projects.vercel.app/api/pin?username=andreassolli&repo=Oblig1Web&card_width=400""
+      srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=andreassolli&repo=Oblig1Web&card_width=400""
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"    width="400px"
     />
-    <img src="https://github-readme-stats-git-dependabot-npman-374823-andreassolli-projects.vercel.app/api/pin?username=andreassolli&repo=Oblig1Web&card_width=400"  
+    <img src="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=andreassolli&repo=Oblig1Web&card_width=400"  
         width="400px"/>
   </picture>
         </a>
       <a href="https://www.github.com/andreassolli/Oblig2">
    <picture>
     <source
-      srcset="https://github-readme-stats-git-dependabot-npman-374823-andreassolli-projects.vercel.app/api/pin?username=andreassolli&repo=Oblig2&theme=transparent&card_width=400"
+      srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=andreassolli&repo=Oblig2&theme=transparent&card_width=400"
       media="(prefers-color-scheme: dark)"    width="400px"
     />
     <source
-      srcset="https://github-readme-stats-git-dependabot-npman-374823-andreassolli-projects.vercel.app/api/pin?username=andreassolli&repo=Oblig2&card_width=400""
+      srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=andreassolli&repo=Oblig2&card_width=400""
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"    width="400px"
     />
-    <img src="https://github-readme-stats-git-dependabot-npman-374823-andreassolli-projects.vercel.app/api/pin?username=andreassolli&repo=Oblig2&card_width=400"  
+    <img src="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=andreassolli&repo=Oblig2&card_width=400"  
         width="400px"/>
   </picture>
       </a>
             <a href="https://www.github.com/andreassolli/Oblig2Webut">
    <picture>
     <source
-      srcset="https://github-readme-stats-git-dependabot-npman-374823-andreassolli-projects.vercel.app/api/pin?username=andreassolli&repo=Oblig2Webut&theme=transparent&card_width=400"
+      srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=andreassolli&repo=Oblig2Webut&theme=transparent&card_width=400"
       media="(prefers-color-scheme: dark)"    width="400px"
     />
     <source
-      srcset="https://github-readme-stats-git-dependabot-npman-374823-andreassolli-projects.vercel.app/api/pin?username=andreassolli&repo=Oblig2Webut&card_width=400""
+      srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=andreassolli&repo=Oblig2Webut&card_width=400""
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"    width="400px"
     />
-    <img src="https://github-readme-stats-git-dependabot-npman-374823-andreassolli-projects.vercel.app/api/pin?username=andreassolli&repo=Oblig2Webut&card_width=400"  
+    <img src="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=andreassolli&repo=Oblig2Webut&card_width=400"  
         width="400px"/>
   </picture>
         </a>
           <a href="https://www.github.com/andreassolli/Webutvikling-Eksamen">
    <picture>
     <source
-      srcset="https://github-readme-stats-git-dependabot-npman-374823-andreassolli-projects.vercel.app/api/pin?username=andreassolli&repo=Webutvikling-Eksamen&theme=transparent&card_width=400"
+      srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=andreassolli&repo=Webutvikling-Eksamen&theme=transparent&card_width=400"
       media="(prefers-color-scheme: dark)"    width="400px"
     />
     <source
-      srcset="https://github-readme-stats-git-dependabot-npman-374823-andreassolli-projects.vercel.app/api/pin?username=andreassolli&repo=Webutvikling-Eksamen&card_width=400""
+      srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=andreassolli&repo=Webutvikling-Eksamen&card_width=400""
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"    width="400px"
     />
-    <img src="https://github-readme-stats-git-dependabot-npman-374823-andreassolli-projects.vercel.app/api/pin?username=andreassolli&repo=Webutvikling-Eksamen&card_width=400"  
+    <img src="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/pin?username=andreassolli&repo=Webutvikling-Eksamen&card_width=400"  
         width="400px"/>
   </picture>
       </a>
