@@ -20,26 +20,26 @@ Andreas Sandvik Solli (andreassolli)
 <div align="center" >
   <picture>
     <source
-      srcset="https://github-readme-stats-andreassolli-projects.vercel.app/api?username=andreassolli&show_icons=true&theme=transparent"
+      srcset="https://github-readme-stats-aillos-projects.vercel.app/api?username=andreassolli&show_icons=true&theme=transparent"
       media="(prefers-color-scheme: dark)" width="400px"
     />
     <source
       srcset="https://github-readme-stats-andreassolli-projects.vercel.app/api?username=andreassolli&show_icons=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" width="400px"
     />
-    <img src="https://github-readme-stats-andreassolli-projects.vercel.app/api?username=andreassolli&show_icons=true" width="400px" />
+    <img src="https://github-readme-stats-aillos-projects.vercel.app/api?username=andreassolli&show_icons=true" width="400px" />
   </picture>
   
   <picture>
     <source
-      srcset="https://github-readme-stats-git-dependabot-npman-374823-andreassolli-projects.vercel.app/api/top-langs/?username=andreassolli&layout=compact&theme=transparent&langs_count=12&hide_progress=true&card_width=430"
+      srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/top-langs/?username=andreassolli&layout=compact&theme=transparent&langs_count=12&hide_progress=true&card_width=430"
       media="(prefers-color-scheme: dark)"  height="167px" width="430px"
     />
     <source
-      srcset="https://github-readme-stats-git-dependabot-npman-374823-andreassolli-projects.vercel.app/api/top-langs/?username=andreassolli&layout=compact&langs_count=12&hide_progress=true&card_width=430"
+      srcset="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/top-langs/?username=andreassolli&layout=compact&langs_count=12&hide_progress=true&card_width=430"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"  height="167px" width="430px"
     />
-    <img src="https://github-readme-stats-git-dependabot-npman-374823-andreassolli-projects.vercel.app/api/top-langs/?username=andreassolli&layout=compact&langs_count=12&hide_progress=true&card_width=430"  height="167px" width="430px"/>
+    <img src="https://github-readme-stats-git-dependabot-npman-374823-aillos-projects.vercel.app/api/top-langs/?username=andreassolli&layout=compact&langs_count=12&hide_progress=true&card_width=430"  height="167px" width="430px"/>
   </picture>
 </div>
 
