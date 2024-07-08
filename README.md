@@ -6,13 +6,13 @@
 ```
 Andreas Sandvik Solli (andreassolli)
 -------------------------
-💻 I am a Full Stack Developer
-📚 Currently finishing a bachelors degree in applied Computer Science
-🔭 My bachelor task revolves around creating a Full Stack app with C#
-📝 Planning to do a masters degree in System Architecture & Programming
+💻 I am a Software Engineer, developing for web, games, and applications.
+📚 Pursuing a masters degree in Programming & System Architecture at UiO.
+📝 Completed a bachelors degree in applied Computer Science at OsloMet.
+🔭 My bachelor task revolved around creating a Full Stack app with C#.
 🌟 Main languages: Java, JavaScript, C#, Python
-🧗‍♂️ Always striving for the highest achievements in the games I play
-💬 Can recommend an anime or explain why you should read/watch Berserk
+🧗‍♂️ Always striving for the highest achievements in the games I play.
+💬 Can recommend an anime or explain why you should read/watch Berserk.
 🔗 My portfolio website: https://solli.dev
 ```
 <hr>
